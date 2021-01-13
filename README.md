@@ -23,7 +23,7 @@
   ---  
 
   ## Usage:  
-  From the main page, select "Get Started." Then on the notes page, enter a title and note text for your first note. To save it, click the floppy disk icon in the upper righthand corner of the screen. You will then see it saved on the left side of the screen. To access this note later, simply click on the note's title on the left. You can then edit it and click the floppy disk icon to save your changes. If you'd like to delete a note, simply click the red trashcan icon next to it in the list of notes.  
+  From the main page, select "Get Started." Then on the notes page, enter a title and note text for your first note. To save it, click the floppy disk icon in the upper righthand corner of the screen. You will then see it saved on the left side of the screen. To access this note later, simply click on the note's title on the left. If you'd like to delete a note, simply click the red trashcan icon next to it in the list of notes.  
 
   --- 
 
